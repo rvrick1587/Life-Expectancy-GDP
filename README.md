@@ -11,4 +11,4 @@ For this project, I will analyze data on GDP and life expectancy from the World 
 + What is the distribution of that life expectancy?
 
 # Licenses / Acknowledgements / References
-Data has been provided by CodeCademy, retrieved from the World Health Organization (WHO) and the World Bank.
+Data has been provided by CodeCademy, retrieved from the [World Health Organization](http://apps.who.int/gho/data/node.main.688) and the [World Bank](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD).
